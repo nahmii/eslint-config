@@ -1,0 +1,20 @@
+{
+  "name": "@nahmii/eslint-config",
+  "version": "1.0.0",
+  "description": "Nahmii ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "Nahmii"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 4"
+  },
+  "author": "Jens Ivar Jørdre",
+  "license": "UNLICENCED",
+  "repository": "github:nahmii/eslint-config-hubii"
+}
